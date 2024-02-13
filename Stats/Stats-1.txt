@@ -1,0 +1,2 @@
+1. Z-score converts normal distribution to std normal distribution.
+2. 
